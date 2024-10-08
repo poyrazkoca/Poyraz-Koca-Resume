@@ -1,1 +1,1 @@
-This is my current cv as a Junior Software Engineeer
+This is my current resume as a Junior Software Engineeer.
